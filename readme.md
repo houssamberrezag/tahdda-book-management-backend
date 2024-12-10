@@ -5,7 +5,7 @@
 
  Steps
 
-1. lone the repository:
+1. clone the repository:
    git clone https://github.com/houssamberrezag/tahdda-book-management-backend.git
    cd tahdda-book-management-backend
 
