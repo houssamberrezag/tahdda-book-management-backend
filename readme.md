@@ -22,10 +22,13 @@
    DB_NAME=book_management
    JWT_SECRET=your_jwt_secret
 
-4. Start the server:
+4. Create Database:
+   Create a Datebase with name book_management
+
+5. Start the server:
    npm start
 
-5.Access the Swagger documentation  
+6. Access the Swagger documentation  
    Open your browser and navigate to: http://localhost:3000/api-docs
 
 API Endpoints
